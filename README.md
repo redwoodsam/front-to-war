@@ -1,6 +1,8 @@
 # Gerador ReactJS/VueJS para war
 Aplicação GUI para converter projetos React e Vue 2 para formato .war compatível com servidores de aplicação Java (Tomcat, WebSphere e afins).
 
+OBS: Não compatível com Vite
+
 ## Requisitos:
 - Java Runtime Environment (JRE) 8+
 - NodeJS 14+
