@@ -1,2 +1,5 @@
 # front-to-war
-GUI Application that converts React and VueJS projects to .war to be deployed to JVM-based Application Servers
+Aplicação GUI para converter projetos React e Vue2 para formato .war compatível com servidores de aplicação Java (Tomcat, WebSphere e afins).
+
+Requisitos:
+- Java Runtime Environment (JRE) 8+
