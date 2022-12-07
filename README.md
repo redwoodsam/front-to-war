@@ -3,6 +3,8 @@ Aplicação GUI para converter projetos React e Vue 2 para formato .war compatí
 
 OBS: Não compatível com Vite.
 
+<img src="https://i.imgur.com/TcnmuX0.png">
+
 ## Requisitos:
 - Java Runtime Environment (JRE) 8+
 - NodeJS 14+
